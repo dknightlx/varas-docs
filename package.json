@@ -1,0 +1,18 @@
+{
+  "name": "varas-docs",
+  "version": "1.0.0",
+  "description": "## 使用方法 ### 环境搭建",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "docsify serve ./docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/dknight_lx/varas-docs.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
